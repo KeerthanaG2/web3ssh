@@ -37,4 +37,5 @@ Reduced Fees: Transaction fees are way cheaper compared to traditional sale fees
 Artist Empowerment: Gives artists a platform where they can exhibit their work directly to collectors and get proper royalties for their work.
 Community Building: Equipped with social features building a community of art lovers.
 
+[Presentation5.pdf](https://github.com/user-attachments/files/16534304/Presentation5.pdf)
 
